@@ -1,1 +1,4 @@
 /build*/
+/results_*/
+*.rpm
+*.tar.gz
